@@ -16,9 +16,12 @@
   "plugins": [
     "flowtype",
     "import",
-    "react"
+    "react",
+    "compat"
   ],
   "rules": {
+    "browser": true,
+    "compat/compat": "error",
     "no-console": 0,
     "comma-dangle": 1,
     "eol-last": 0,

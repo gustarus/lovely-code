@@ -2,3 +2,6 @@
 # yarn lockfile v1
 
 
+browserslist-config-check-my-shit@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/browserslist-config-check-my-shit/-/browserslist-config-check-my-shit-0.1.0.tgz#23b49a288b05f106f62955ce554f148d2a197918"
