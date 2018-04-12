@@ -1,15 +1,7 @@
 {
   "name": "check-my-shit",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "example": "examples"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "version": "0.1.2",
+  "author": "Pavel Kondratenko",
   "license": "ISC",
   "peerDependencies": {
     "babel-eslint": "8.2.2",
