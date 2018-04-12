@@ -1,4 +1,4 @@
-# Check my shit collection
+# Lovely code
 ^:shit:-code\\.(`js`|`styl`|`css`|`sass`)$ → :icecream:-code\.($1)
 
 A collection of really useful tools to improve your code quality.
