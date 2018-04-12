@@ -1,6 +1,6 @@
 {
   "name": "check-my-shit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Pavel Kondratenko",
   "license": "ISC",
   "peerDependencies": {
