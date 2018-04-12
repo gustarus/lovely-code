@@ -10,20 +10,20 @@ For example, for [linters](#use-code-quality-tools-(linters)) I can define confi
 But there is no reason to define [configuration files for ide](#use-editor-config) for each standard because the basic rules are the same.
 Difference between each standard was described in each section of the collection (where it's possible).
 
-### :star: `Bronze` standard :beginner:
+### `Bronze` :star: standard :beginner:
 **In case of code quality tools**
 
 Used for projects that "needed to be done yesterday".
 Usually repeats the configuration of an ide and no special more features.
 Can be supported with `.editorconfig` and some settings in ide.
 
-### :star: :star: `Silver` standard :guardsman:
+### `Silver` :star: :star: standard :guardsman:
 **In case of code quality tools**
 
 For "good" projects.
 Nothing special.
 
-### :star: :star: :star:`Gold` standard :godmode:
+### `Gold` :star: :star: :star: standard :godmode:
 **In case of code quality tools**
 
 Only for **gods-of-js**.
