@@ -33,14 +33,16 @@ Only for **gods-of-js**.
 
 ## What I'd suggest to use to improve code quality?
 ### Use editor config
-You can easily support quality of your code with configuration files for your ide.
-It is extremely useful with combination of code auto-reformatting.
 [Read more about configuration file for ide](/docs/editor/readme.md).
 
+You can easily support quality of your code with configuration files for your ide.
+It is extremely useful with combination of code auto-reformatting.
+
 ### Use code quality tools (linters)
+[Read more about configuration files for linters in this collection](/docs/linters/readme.md).
+
 You can easily support quality of your code with this tools.
 Just add them to your project and use configuration files from this collection.
-[Read more about configuration files for linters in this collection](/docs/linters/readme.md).
 
 ## To be done
 - [ ] **Silver standard (default)**
