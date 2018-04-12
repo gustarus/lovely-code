@@ -1,5 +1,9 @@
 # Linters
 
+## What we have here?
+[Javascript validation tool: eslint](/docs/linters/.eslintrc.md).
+[Stylus validation tool: stylint](/docs/linters/.stylintrc.md).
+
 ## Standards
 This project have three presets for every standard of your project.
 You can just use configuration file or use as extends (where it's possible).
