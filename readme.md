@@ -1,4 +1,6 @@
 # Check my shit collection
+^:shit:-code\\.(`js`|`styl`|`css`|`sass`)$ → :icecream:-code\.($1)
+
 A collection of really useful tools to improve your code quality.
 The conception of three "standards" is used in this collection to describe three different levels of code-quality.
 
