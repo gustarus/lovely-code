@@ -1,6 +1,10 @@
 {
   "name": "lovely-code",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "author": "Pavel Kondratenko",
-  "license": "ISC"
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint-config-lovely-code":"0.x",
+    "browserslist-config-lovely-code":"0.x"
+  }
 }
