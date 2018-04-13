@@ -1,4 +1,4 @@
-# Lovely code
+# Lovely code ![100% vegan](https://img.shields.io/badge/lovely-100%25-ff69b4.svg?longCache=true&style=flat-square) ![100% vegan](https://img.shields.io/badge/vegan-100%25-green.svg?longCache=true&style=flat-square)
 ^:shit:-code\\.(`js`|`styl`|`css`|`sass`)$ → :icecream:-code\.($1)
 
 A collection of really useful tools to improve your code quality.
